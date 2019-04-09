@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--Character definintions-->
+<CharacterTable>
+  <character char="A" bits="227873781661662" />
+  <character char="B" bits="422199034855391" />
+  <character char="C" bits="9565685714534398" />
+  <character char="D" bits="140724398931935" />
+  <character char="E" bits="281410551955455" />
+  <character char="F" bits="9020603847426047" />
+  <character char="G" bits="417801450766302" />
+  <character char="H" bits="228785541988957427" />
+  <character char="I" bits="9223144176159343372" />
+  <character char="J" bits="3513788460580408368" />
+  <character char="K" bits="227860354645235" />
+  <character char="L" bits="281409529589955" />
+  <character char="M" bits="227860698627297" />
+  <character char="N" bits="227860832812275" />
+  <character char="O" bits="136326352420830" />
+  <character char="P" bits="13404056010719" />
+  <character char="Q" bits="277072430710750" />
+  <character char="R" bits="227860363034591" />
+  <character char="S" bits="140721356816382" />
+  <character char="T" bits="53614281281535" />
+  <character char="U" bits="136326352420083" />
+  <character char="V" bits="54906657389811" />
+  <character char="W" bits="148708944461043" />
+  <character char="X" bits="227860337605875" />
+  <character char="Y" bits="53614596799731" />
+  <character char="Z" bits="281409582370815" />
+  <character char="0" bits="136326352420830" />
+  <character char="1" bits="132779118478220" />
+  <character char="2" bits="281409720881119" />
+  <character char="3" bits="140720819867615" />
+  <character char="4" bits="214457363938547" />
+  <character char="5" bits="140721373593599" />
+  <character char="6" bits="136326548307966" />
+  <character char="7" bits="107228568948735" />
+  <character char="8" bits="136325994594270" />
+  <character char="9" bits="214457363939294" />
+</CharacterTable>
